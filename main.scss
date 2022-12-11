@@ -69,6 +69,19 @@ main {
     height: auto;
 }
 
+#blue {
+    color: lightskyblue;
+}
+
+.debold {
+    font-weight: normal;
+}
+
+.italic {
+    font-style: italic;
+    font-weight: 100;
+}
+
 .row {
     display: flex;
     justify-content: space-between;
