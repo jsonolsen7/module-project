@@ -44,14 +44,22 @@ main {
   color: purple;
   text-align: center;
 }
+main img {
+  width: 250px;
+  height: auto;
+}
+main h1 {
+  font-size: 36px;
+}
+main h2 {
+  font-size: 32px;
+}
+main h3 {
+  font-size: 28px;
+}
 
 .mockup {
   width: 400px;
-  height: auto;
-}
-
-main img {
-  width: 250px;
   height: auto;
 }
 

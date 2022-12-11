@@ -45,15 +45,27 @@ header {
 main {
     color: purple;
     text-align: center;
+
+    img {
+        width: 250px;
+        height: auto;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    h2 {
+        font-size: 32px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
 }
 
 .mockup {
     width: 400px;
-    height: auto;
-}
-
-main img {
-    width: 250px;
     height: auto;
 }
 
