@@ -41,6 +41,7 @@ header {
 }
 
 main {
+  color: purple;
   text-align: center;
 }
 
@@ -52,4 +53,5 @@ main {
 .row {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
