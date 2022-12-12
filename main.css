@@ -2,11 +2,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #FFFEE9;
+  background-color: white;
   max-width: 680px;
 }
 
-body {
+nav, header, main {
   padding: 8px;
   margin: 8px;
 }
@@ -88,5 +88,13 @@ main h3 {
   padding: 16px 80px;
   background-color: purple;
   border-radius: 10px;
-  margin: 40px;
+}
+
+footer {
+  text-align: center;
+  background-color: #FFFEE9;
+}
+footer h1 {
+  background-color: #FFFEE9;
+  padding: 24px 0;
 }
