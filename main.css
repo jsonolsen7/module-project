@@ -91,6 +91,8 @@ main h3 {
 }
 
 footer {
+  padding: 24px 0;
+  color: purple;
   text-align: center;
   background-color: #FFFEE9;
 }
